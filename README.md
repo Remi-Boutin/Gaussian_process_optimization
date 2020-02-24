@@ -1,1 +1,1 @@
-# gaussian_proess_optimization
+# gaussian_process_optimization
